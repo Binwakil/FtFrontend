@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#container{
+  background-color: antiquewhite;
+  padding: 40px;
+}
+
+.def{
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.def h3 {
+  background-color: aliceblue;
+  padding: 5px;
+  text-transform: capitalize;
+}
+
+.def p{
+  background-color: #fff;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.mint{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.mint input{
+  padding: 5px;
+
+}
+
+.mint button {
+  padding: 5px;
+  text-transform: capitalize;
+  margin-left: 10px;
+}
+
+.out button{
+  padding: 5px;
+  font-size: 25px;
+}
+
+
+.transfr{
+  margin-top: 40px;
+}
+
+.transfr input{
+  padding: 5px;
+  margin-bottom: 4px;
+}
+
+.transfr button{
+  padding: 4px;
+  font-size: 20px;
+}
